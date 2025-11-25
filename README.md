@@ -27,3 +27,31 @@
 
 Now we need to change this file inside branch "feature". Let's do that, but i don't know 
 what to write in that changing. I think, this text is enough 
+
+
+AAA
+bbb
+ccc
+ddd
+eee
+fff
+ggg
+hhh
+iii
+jjj
+kkk
+lll
+mmm
+nnn
+ooo
+ppp
+qqq
+rrr
+sss
+ttt
+uuu
+vvv
+www
+xxx
+yyy
+zzz
