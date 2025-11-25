@@ -24,3 +24,6 @@
 Он мне дал с собой добра четыре ведра
 И произнёс мне бобёр
 "Ну всё давай, я попёр"
+
+Now we need to change this file inside branch "feature". Let's do that, but i don't know 
+what to write in that changing. I think, this text is enough 
